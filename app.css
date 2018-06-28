@@ -2,8 +2,8 @@
 
 body {
   padding-top: 20px;
+  background-color: lightgoldenrodyellow;
 }
-
 
 .phone-images {
   background-color: white;
@@ -24,6 +24,14 @@ body {
   padding-bottom: 1em;
   height: 100px;
   width: 100px;
+}
+
+.phones__btn-buy-wrapper {
+  align-items: center;
+  float: right;
+  height: 100%;
+  display: flex;
+  margin: 0 1em;
 }
 
 .phones li {
